@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar/navbar'; 
 import EditModal from './EditModal/EditModal'; 
+import Sidebar from './Sidebar/Sidebar';
+import Operations from './Operation/Operation';
+import EntranceModal from './EntranceModal/EntranceModal';
 
 function App() {
   return (
@@ -22,6 +25,9 @@ function App() {
         </a>
         <Navbar /> {/* Navbar bileşenini kullanım */}
         <EditModal /> {/* EditModal bileşenini kullanım */}
+        <Sidebar/>
+        <Operations/>
+        <EntranceModal/>
       </header>
     </div>
   );

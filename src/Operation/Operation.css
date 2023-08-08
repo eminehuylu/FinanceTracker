@@ -1,0 +1,47 @@
+/* Operations.css */
+
+/* Container styling */
+.operations-container {
+    /* Your container styles here */
+  }
+  
+  /* Filters section styling */
+  .filters-section {
+    /* Your filters section styles here */
+  }
+  
+  /* Clear button styling */
+  .clear-button {
+    /* Your clear button styles here */
+  }
+  
+  /* List of operations styling */
+  .operations-list {
+    /* Your operations list styles here */
+  }
+  
+  /* Individual operation item styling */
+  .operation-item {
+    /* Your operation item styles here */
+  }
+  
+  /* Income item background styling */
+  .income-item {
+    background-color: #a7f3d0; /* Example color */
+  }
+  
+  /* Expense item background styling */
+  .expense-item {
+    background-color: #f3b2a7; /* Example color */
+  }
+  
+  /* Edit and Delete icons styling */
+  .edit-delete-icons {
+    /* Your edit and delete icons container styles here */
+  }
+  
+  /* Edit and Delete icon styling */
+  .edit-delete-icon {
+    /* Your edit and delete icon styles here */
+  }
+  
