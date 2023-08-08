@@ -1,0 +1,37 @@
+/* EntranceModal.css */
+
+/* Custom transition style */
+.my-custom-transition {
+    /* Your transition styles here */
+  }
+  
+  /* Custom modal style */
+  .my-custom-modal {
+    /* Your modal styles here */
+  }
+  
+  /* Custom form style */
+  .my-custom-form {
+    /* Your form styles here */
+  }
+  
+  /* Custom input style */
+  .my-custom-input {
+    /* Your input styles here */
+  }
+  
+  /* Custom button style */
+  .my-custom-button {
+    /* Your button styles here */
+  }
+  
+  /* Additional styles for validCurrency class */
+  .bg-green-600.validCurrency {
+    /* Styles for valid currency input */
+  }
+  
+  /* Additional styles for invalidCurrency class */
+  .bg-red-600.invalidCurrency {
+    /* Styles for invalid currency input */
+  }
+  
