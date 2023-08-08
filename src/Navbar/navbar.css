@@ -1,0 +1,27 @@
+/* src/styles/navbar.css */
+.navbar {
+    background-color: #1a365d;
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 2rem;
+    z-index: 1000; /* Eğer diğer elemanlarla çakışma ihtimali varsa z-index ayarlayabilirsiniz */
+  }
+  
+  .navbar-title {
+    color: #ebf8ff;
+    font-size: 1.5rem;
+    font-family: serif;
+  }
+  
+  .navbar-balance {
+    font-size: 1.25rem;
+    font-family: monospace;
+    color: var(--balance-color, #ebf8ff); /* Özel durum renk tanımı için --balance-color kullanılabilir */
+  }
+  
